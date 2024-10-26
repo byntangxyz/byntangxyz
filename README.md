@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bintang Maulana Murtifandy</h1>
-<h3 align="center">A passionate frontend developer from Yogyakarta, Indonesia 🇮🇩</h3>
+<h3 align="center">Just an ordinary human</h3>
 
 # 💫 About Me:
 👨‍💻 Newbie Programer, I'm just started 4 month ago<br>🌱 I’m currently learning React & Vue.js<br>⭐ My personal website at https://byntangxyz.my.id<br>⚡ Fun fact, you know that i'm was so easy to jealous:)
