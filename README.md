@@ -24,7 +24,7 @@
   <a href="https://instagram.com/byntangxyz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-</div>
+</div><br />
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sjas5m4h4lb6q6zlehb4mhqjou)
 
