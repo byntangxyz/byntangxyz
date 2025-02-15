@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024 👾<br>📚 I'm currently learning Laravel 🧬<br>🎯 Goals: Conquer the world 🌏<br>💸 Donate saweria.co<br>💻 Device: Lenovo G400 2013</p>
+<p align="left">✨ Creating bugs since 2024 👾<br>📚 I'm currently learning Laravel 🧬<br>🎯 Goals: Conquer the world 🌏<br>💸 Donate <a href="saweria.co/bxie" target="_blank">saweria.co</a><br>💻 Device: Lenovo G400 2013</p>
 
 ###
 
