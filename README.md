@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024 👾<br>📚 I'm currently learning Laravel 🧬<br>🎯 Goals: Conquer the world 🌏<br>💸 Donate <a href="https://saweria.co/bintangmurtifandy" target="_blank">saweria.co</a><br>💻 Device: Lenovo G400 2013</p>
+<p align="left">✨ Creating bugs since 2024 👾<br>📚 I'm currently learning Laravel 🧬<br>🎯 Goals: Conquer the world 🌏<br>💸 Donate <a href="https://saweria.co/bintangmurtifandy" target="_blank">saweria.co</a><br>💻 Device: <br>💻 Laptop Lenovo G400 2013<br>🖥 Intel Core i5 12400F, GTX 1660 Super, 16GB RAM</p>
 
 ###
 
