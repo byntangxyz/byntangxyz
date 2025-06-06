@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h2 align="center">Hello World!</h2>
+<h1 align="center">Hello World!</h1>
 
 ###
 
-<img align="right" height="199" src="https://media1.tenor.com/m/pqckQpWm9DIAAAAd/typing-code.gif"  />
+<img align="right" height="200" src="https://media1.tenor.com/m/pqckQpWm9DIAAAAd/typing-code.gif"  />
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -67,7 +67,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
@@ -111,7 +111,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=byntangxyz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=byntangxyz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=byntangxyz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=byntangxyz&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=byntangxyz&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
