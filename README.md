@@ -108,7 +108,7 @@
 ###
 
 <br clear="both">
-<h3 align="center">Github State 📈</h3>
+<h3 align="center">Github Stats 📈</h3>
 
 ###
 
