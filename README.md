@@ -10,7 +10,9 @@
 - 📫 How to reach me **bintangmurtifandy@gmail.com**
 
 <hr />
+
 👩🏿‍💻 **Development Time Spent**
+
 <p><!--START_SECTION:waka-->
 
 ```txt
