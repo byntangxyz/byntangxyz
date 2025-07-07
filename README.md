@@ -16,19 +16,14 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2025 - To: 05 July 2025
+From: 29 June 2025 - To: 06 July 2025
 
-Total Time: 15 hrs 39 mins
+Total Time: 18 hrs 47 mins
 
-Vue.js       9 hrs 51 mins   ███████████████▓░░░░░░░░░   62.88 %
-TypeScript   4 hrs 29 mins   ███████░░░░░░░░░░░░░░░░░░   28.62 %
-Bash         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Text         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Vue.js       9 hrs 51 mins   ████████████▓░░░░░░░░░░░░   51.22 %
+TypeScript   7 hrs 26 mins   █████████▓░░░░░░░░░░░░░░░   38.64 %
+Bash         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Other        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka--></p>
