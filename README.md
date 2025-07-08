@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 📫 How to reach me **bintangmurtifandy@gmail.com**
+- 📫 How to reach me **[contact@fundevz.xyz](mailto:contact@fundevz.xyz)**
 
 <hr />
 
