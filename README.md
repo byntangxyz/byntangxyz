@@ -5,7 +5,7 @@
 
 - 🏠 If you're interested just visit [Fundevz.xyz](https://fundevz.xyz)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning about **DevOps & IoT**
 
 - 📫 How to reach me **[contact@fundevz.xyz](mailto:contact@fundevz.xyz)**
 
