@@ -16,16 +16,16 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2025 - To: 30 July 2025
+From: 24 July 2025 - To: 31 July 2025
 
-Total Time: 10 hrs 19 mins
+Total Time: 10 hrs 10 mins
 
-JavaScript   7 hrs 1 min     █████████████████░░░░░░░░   68.10 %
-Markdown     1 hr 45 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
-Python       57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
-CSS          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-MDX          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JavaScript   6 hrs 36 mins   ████████████████▒░░░░░░░░   64.96 %
+Markdown     3 hrs 3 mins    ███████▓░░░░░░░░░░░░░░░░░   30.00 %
+CSS          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+MDX          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
