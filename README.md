@@ -16,13 +16,13 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2025 - To: 03 August 2025
+From: 28 July 2025 - To: 04 August 2025
 
-Total Time: 3 hrs 5 mins
+Total Time: 2 hrs 44 mins
 
-Markdown     2 hrs 51 mins   ███████████████████████░░   92.17 %
-JavaScript   14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown     2 hrs 43 mins   █████████████████████████   99.61 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka--></p>
