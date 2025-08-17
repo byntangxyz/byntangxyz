@@ -16,12 +16,13 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2025 - To: 15 August 2025
+From: 09 August 2025 - To: 16 August 2025
 
-Total Time: 17 mins
+Total Time: 2 hrs 4 mins
 
-JavaScript   17 mins         █████████████████████████   99.44 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JavaScript   1 hr 35 mins    ███████████████████▒░░░░░   77.14 %
+CSS          28 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka--></p>
