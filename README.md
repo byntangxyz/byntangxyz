@@ -16,19 +16,18 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2025 - To: 27 August 2025
+From: 21 August 2025 - To: 28 August 2025
 
-Total Time: 7 hrs 48 mins
+Total Time: 6 hrs 42 mins
 
-Markdown     2 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   31.38 %
-JavaScript   1 hr 55 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.67 %
-Vue.js       51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-TypeScript   51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Python       50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-Bash         33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-TSConfig     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Markdown     2 hrs 11 mins   ████████▒░░░░░░░░░░░░░░░░   32.70 %
+JavaScript   1 hr 55 mins    ███████▒░░░░░░░░░░░░░░░░░   28.73 %
+Vue.js       51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+TypeScript   51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
+Bash         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+TSConfig     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka--></p>
