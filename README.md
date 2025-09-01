@@ -16,12 +16,11 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2025 - To: 30 August 2025
+From: 24 August 2025 - To: 31 August 2025
 
-Total Time: 1 hr 48 mins
+Total Time: 1 hr 17 mins
 
-Markdown     1 hr 38 mins    ██████████████████████▓░░   90.52 %
-TypeScript   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+Markdown   1 hr 17 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka--></p>
