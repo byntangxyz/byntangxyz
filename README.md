@@ -16,12 +16,14 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2025 - To: 17 November 2025
+From: 11 November 2025 - To: 18 November 2025
 
-Total Time: 1 hr 1 min
+Total Time: 1 hr 3 mins
 
-Python   1 hr 1 min      █████████████████████████   99.88 %
-kvlang   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python       1 hr 1 min      ████████████████████████▒   96.79 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+kvlang       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka--></p>
