@@ -16,16 +16,16 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2025 - To: 30 November 2025
+From: 24 November 2025 - To: 01 December 2025
 
-Total Time: 14 hrs
+Total Time: 15 hrs 4 mins
 
-JavaScript   8 hrs 20 mins   ███████████████░░░░░░░░░░   59.49 %
-HTML         2 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
-CSS          1 hr 41 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
-Smali        59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-XML          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Python       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+JavaScript   9 hrs 17 mins   ███████████████▒░░░░░░░░░   61.60 %
+HTML         2 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
+CSS          1 hr 44 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+Smali        59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+XML          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Python       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 kvlang       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
