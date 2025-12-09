@@ -16,14 +16,11 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
-Total Time: 1 hr 36 mins
+Total Time: 33 mins
 
-JavaScript   56 mins         ██████████████▓░░░░░░░░░░   58.74 %
-Smali        33 mins         ████████▓░░░░░░░░░░░░░░░░   34.42 %
-HTML         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-CSS          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Smali   33 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka--></p>
