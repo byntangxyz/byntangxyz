@@ -16,13 +16,12 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2025 - To: 10 December 2025
+From: 05 December 2025 - To: 12 December 2025
 
-Total Time: 2 hrs 34 mins
+Total Time: 2 hrs 1 min
 
-JavaScript   2 hrs           ███████████████████░░░░░░   76.63 %
-Smali        33 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.10 %
-Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+JavaScript   2 hrs           ████████████████████████▒   97.12 %
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 ```
 
 <!--END_SECTION:waka--></p>
