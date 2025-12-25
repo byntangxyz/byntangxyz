@@ -16,13 +16,12 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2025 - To: 23 December 2025
+From: 17 December 2025 - To: 24 December 2025
 
-Total Time: 3 hrs 3 mins
+Total Time: 1 hr 6 mins
 
-MDX          1 hr 41 mins    ██████████████░░░░░░░░░░░   55.45 %
-JavaScript   1 hr 20 mins    ███████████░░░░░░░░░░░░░░   43.92 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+MDX          1 hr 2 mins     ███████████████████████▓░   94.45 %
+JavaScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
 ```
 
 <!--END_SECTION:waka--></p>
