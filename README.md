@@ -16,19 +16,17 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2026 - To: 09 February 2026
+From: 03 February 2026 - To: 10 February 2026
 
-Total Time: 8 hrs 49 mins
+Total Time: 10 hrs 30 mins
 
-JavaScript       4 hrs 23 mins   ████████████▒░░░░░░░░░░░░   49.63 %
-Python           1 hr 53 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
-Go               1 hr 17 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-Bash             29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-PHP              22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-Blade Template   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-CSS              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-CSV              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+PHP              3 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.18 %
+JavaScript       2 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░░   24.11 %
+Python           1 hr 53 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
+Go               1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+Bash             59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+Blade Template   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Other            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka--></p>
