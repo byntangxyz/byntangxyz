@@ -16,18 +16,18 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2026 - To: 16 February 2026
+From: 10 February 2026 - To: 17 February 2026
 
-Total Time: 19 hrs 14 mins
+Total Time: 15 hrs 42 mins
 
-PHP          9 hrs 12 mins   ████████████░░░░░░░░░░░░░   47.70 %
-Vue.js       3 hrs 57 mins   █████░░░░░░░░░░░░░░░░░░░░   20.52 %
-Dart         2 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-Bash         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-JavaScript   50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-TypeScript   42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Python       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+PHP          6 hrs 24 mins         ██████████▒░░░░░░░░░░░░░░   40.70 %
+Vue.js       4 hrs 1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.54 %
+Dart         2 hrs 48 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
+JavaScript   52 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+TypeScript   42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Bash         20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Python       13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+HTML         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka--></p>
