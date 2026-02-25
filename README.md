@@ -13,17 +13,19 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 16 February 2026 - To: 23 February 2026
+From: 17 February 2026 - To: 24 February 2026
 
-Total Time: 10 hrs 25 mins
+Total Time: 14 hrs 35 mins
 
-PHP              8 hrs 34 mins         ████████████████████▓░░░░   82.28 %
-Vue.js           47 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-Bash             33 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-Dart             16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-SQL              7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-JavaScript       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Blade Template   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+PHP              8 hrs 36 mins         ██████████████▓░░░░░░░░░░   58.95 %
+Vue.js           3 hrs 34 mins         ██████░░░░░░░░░░░░░░░░░░░   24.55 %
+JavaScript       1 hr 3 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Bash             33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Dart             16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+TypeScript       9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+SQL              7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+CSS              1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+HTML             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka--></p>
