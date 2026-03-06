@@ -13,19 +13,19 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2026 - To: 04 March 2026
+From: 26 February 2026 - To: 05 March 2026
 
-Total Time: 25 hrs 33 mins
+Total Time: 22 hrs 32 mins
 
-Vue.js               16 hrs 25 mins        ████████████████░░░░░░░░░   64.19 %
-TypeScript           3 hrs 53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
-PHP                  3 hrs 38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-Bash                 19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-JSON with Comments   19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-TSConfig             15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-CSS                  12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-JavaScript           6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Other                1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Vue.js               12 hrs 36 mins        ██████████████░░░░░░░░░░░   55.91 %
+PHP                  4 hrs 22 mins         █████░░░░░░░░░░░░░░░░░░░░   19.41 %
+TypeScript           3 hrs 14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
+JSON with Comments   36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Bash                 28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+CSS                  12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+TSConfig             7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+JavaScript           3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Other                0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka--></p>
