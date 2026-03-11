@@ -13,16 +13,16 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 02 March 2026 - To: 09 March 2026
+From: 03 March 2026 - To: 10 March 2026
 
-Total Time: 28 hrs 16 mins
+Total Time: 25 hrs 12 mins
 
-Vue.js               15 hrs 3 mins         █████████████▒░░░░░░░░░░░   53.24 %
-PHP                  8 hrs 1 min           ███████░░░░░░░░░░░░░░░░░░   28.36 %
-TypeScript           3 hrs 1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-Bash                 32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-JSON with Comments   17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-CSS                  16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+PHP                  10 hrs 35 mins        ██████████▓░░░░░░░░░░░░░░   42.03 %
+Vue.js               10 hrs 35 mins        ██████████▒░░░░░░░░░░░░░░   41.98 %
+TypeScript           1 hr 51 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Bash                 30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+CSS                  17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+JSON with Comments   17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 Other                0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
