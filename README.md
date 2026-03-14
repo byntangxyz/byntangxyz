@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byntangxyz&label=Profile%20views&color=0e75b6&style=flat" alt="byntangxyz" /> </p>
 
-- 🏠 If you're interested just visit [Fundevz.xyz](https://fundevz.xyz)
+- 🏠 If you're interested just visit [bintangmurtifandy.id](https://bintangmurtifandy.id)
 
-- 📫 How to reach me **[contact@fundevz.xyz](mailto:contact@fundevz.xyz)**
+- 📫 How to reach me **[contact@fundevz.xyz](mailto:bmurtifandy@gmail.com)**
 
 <hr />
 
@@ -27,3 +27,7 @@ Other        0 secs                ░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka--></p>
+
+<hr />
+
+<div class="tenor-gif-embed" data-postid="21056962" data-share-method="host" data-aspect-ratio="1.87135" data-width="100%"><a href="https://tenor.com/view/anime-gif-21056962">Anime GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
