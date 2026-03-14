@@ -30,4 +30,6 @@ Other        0 secs                ░░░░░░░░░░░░░░░
 
 <hr />
 
+<div align="center">
 ![GIF](https://media1.tenor.com/m/qxK3flqZIucAAAAC/anime.gif)
+</div>
