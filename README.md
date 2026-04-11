@@ -2,9 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byntangxyz&label=Profile%20views&color=0e75b6&style=flat" alt="byntangxyz" /> </p>
 
-- 🏠 If you're interested just visit [bintangmurtifandy.id](https://bintangmurtifandy.id)
+- If you're interested just visit [bintangmurtifandy.id](https://bintangmurtifandy.id)
 
-- 📫 How to reach me **[contact@fundevz.xyz](mailto:bmurtifandy@gmail.com)**
+- How to reach me **[me@bintangmurtifandy.id](mailto:me@bintangmurtifandy.id)**
+
+- Project manager and CEO of [SCentreIX](https://github.com/scentreix)
 
 <hr />
 
