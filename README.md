@@ -17,15 +17,15 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 20 April 2026 - To: 27 April 2026
+From: 21 April 2026 - To: 28 April 2026
 
-Total Time: 5 hrs 59 mins
+Total Time: 3 hrs
 
-TypeScript   3 hrs 40 mins         ███████████████░░░░░░░░░░   60.63 %
-PHP          1 hr 6 mins           ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
-HTML         53 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
-CSS          10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Other        3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+PHP          1 hr 6 mins           █████████░░░░░░░░░░░░░░░░   35.56 %
+HTML         53 mins               ███████▒░░░░░░░░░░░░░░░░░   28.89 %
+TypeScript   40 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
+CSS          17 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Other        6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka--></p>
