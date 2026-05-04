@@ -17,16 +17,14 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 25 April 2026 - To: 02 May 2026
+From: 26 April 2026 - To: 03 May 2026
 
-Total Time: 5 hrs 13 mins
+Total Time: 6 hrs 16 mins
 
-Vue          2 hrs 20 mins         ███████████░░░░░░░░░░░░░░   43.34 %
-Dart         1 hr 10 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
-TypeScript   1 hr 1 min            ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
-Bash         14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-CSS          11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-Other        10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Vue          3 hrs 20 mins         ████████████▒░░░░░░░░░░░░   48.70 %
+Dart         1 hr 10 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
+TypeScript   1 hr 1 min            ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+Other        35 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
 ```
 
 <!--END_SECTION:waka--></p>
