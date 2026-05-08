@@ -17,14 +17,14 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2026 - To: 06 May 2026
+From: 30 April 2026 - To: 07 May 2026
 
-Total Time: 8 hrs 46 mins
+Total Time: 8 hrs 36 mins
 
-Vue          3 hrs 20 mins         █████████░░░░░░░░░░░░░░░░   35.59 %
-TypeScript   2 hrs 54 mins         ███████▓░░░░░░░░░░░░░░░░░   31.04 %
-Dart         1 hr 17 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
-Other        36 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+Vue          3 hrs 17 mins         █████████░░░░░░░░░░░░░░░░   35.60 %
+TypeScript   2 hrs 49 mins         ███████▓░░░░░░░░░░░░░░░░░   30.64 %
+Dart         1 hr 17 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
+Other        36 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
 ```
 
 <!--END_SECTION:waka--></p>
