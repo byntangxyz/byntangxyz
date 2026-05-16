@@ -17,11 +17,13 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 07 May 2026 - To: 14 May 2026
+From: 08 May 2026 - To: 15 May 2026
 
-Total Time: 3 hrs 22 mins
+Total Time: 1 hr 47 mins
 
-Other        1 hr 3 mins           ██████░░░░░░░░░░░░░░░░░░░   23.94 %
+Dart         41 mins               ███████▒░░░░░░░░░░░░░░░░░   29.61 %
+Markdown     38 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.29 %
+Other        34 mins               ██████░░░░░░░░░░░░░░░░░░░   24.25 %
 ```
 
 <!--END_SECTION:waka--></p>
