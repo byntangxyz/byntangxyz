@@ -17,16 +17,16 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2026 - To: 16 June 2026
+From: 10 June 2026 - To: 17 June 2026
 
-Total Time: 2 hrs 50 mins
+Total Time: 2 hrs 43 mins
 
-TypeScript   1 hr 32 mins          █████████████▓░░░░░░░░░░░   54.37 %
-INI          14 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-Markdown     9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-PowerShell   8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-Bash         7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-Prisma       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+TypeScript   1 hr 32 mins          ██████████████▒░░░░░░░░░░   56.86 %
+INI          14 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+PowerShell   8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Bash         7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Markdown     2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Prisma       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka--></p>
