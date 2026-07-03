@@ -17,14 +17,12 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2026 - To: 01 July 2026
+From: 25 June 2026 - To: 02 July 2026
 
-Total Time: 2 hrs 12 mins
+Total Time: 1 hr 10 mins
 
-Python       1 hr 35 mins          ██████████████████░░░░░░░   72.14 %
-Markdown     35 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
-CSV          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python     42 mins               ███████████████░░░░░░░░░░   60.34 %
+Markdown   28 mins               ██████████░░░░░░░░░░░░░░░   39.66 %
 ```
 
 <!--END_SECTION:waka--></p>
