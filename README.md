@@ -17,14 +17,14 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2026 - To: 24 September 2026
+From: 18 September 2026 - To: 25 September 2026
 
-Total Time: 3 hrs 33 mins
+Total Time: 3 hrs 24 mins
 
-PHP          2 hrs 24 mins         ████████████████▓░░░░░░░░   66.19 %
-Vue          37 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
-Bash         20 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
-Other        5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+PHP          2 hrs 20 mins         ████████████████▓░░░░░░░░   66.66 %
+Vue          37 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
+Bash         16 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+Other        5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 ```
 
 <!--END_SECTION:waka--></p>
