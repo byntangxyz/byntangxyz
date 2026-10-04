@@ -17,13 +17,16 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2026 - To: 02 October 2026
+From: 26 September 2026 - To: 03 October 2026
 
-Total Time: 48 mins
+Total Time: 5 hrs 58 mins
 
-Markdown   23 mins               ████████████░░░░░░░░░░░░░   48.09 %
-PHP        19 mins               ██████████▒░░░░░░░░░░░░░░   40.82 %
-Bash       5 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+Markdown      2 hrs                 ████████▒░░░░░░░░░░░░░░░░   32.77 %
+PHP           1 hr 39 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.13 %
+Vue           38 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
+Bash          12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+TypeScript    9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Other         9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka--></p>
