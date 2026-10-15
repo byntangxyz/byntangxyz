@@ -17,18 +17,15 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2026 - To: 13 October 2026
+From: 07 October 2026 - To: 14 October 2026
 
-Total Time: 3 hrs 7 mins
+Total Time: 1 hr 55 mins
 
-Vue              1 hr 14 mins          ██████████░░░░░░░░░░░░░░░   39.53 %
-Blade Template   47 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
-PHP              26 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
-Markdown         17 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-TypeScript       13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-Bash             4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-CSS              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Git Config       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Vue          1 hr 14 mins          ████████████████░░░░░░░░░   64.22 %
+Markdown     17 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+TypeScript   13 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+PHP          9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka--></p>
