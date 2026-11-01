@@ -17,15 +17,14 @@
 <p><!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2026 - To: 30 October 2026
+From: 24 October 2026 - To: 31 October 2026
 
-Total Time: 5 hrs 58 mins
+Total Time: 5 hrs 6 mins
 
-PHP              2 hrs 56 mins         ████████████▒░░░░░░░░░░░░   49.28 %
-Blade Template   1 hr 17 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
-Markdown         43 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-Bash             31 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-Go               28 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+PHP              2 hrs 56 mins         ██████████████▒░░░░░░░░░░   57.58 %
+Blade Template   1 hr 17 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
+Markdown         36 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+Bash             15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 ```
 
 <!--END_SECTION:waka--></p>
